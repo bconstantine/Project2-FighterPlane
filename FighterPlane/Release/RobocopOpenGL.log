@@ -1,0 +1,115 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (RobocopOpenGL.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(285,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(285,23): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(323,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(323,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(335,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(336,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(339,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  objloader.cpp
+  FighterPlane.cpp
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(190,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(192,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(502,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(540,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(547,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(820,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(858,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(865,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1120,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1126,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1141,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1181,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1188,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1445,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1482,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1520,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1527,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1622,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1649,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1898,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1901,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(2087,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(2130,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(2168,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(2175,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(283,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(327,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(328,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(341,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(342,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(343,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(344,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(436,13): warning C4101: 'height': unreferenced local variable
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(436,21): warning C4101: 'nrChannels': unreferenced local variable
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(436,6): warning C4101: 'width': unreferenced local variable
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(3,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(4,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(5,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(53,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(54,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(77,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(77,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(107,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(108,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(109,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(110,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(111,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(112,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(340,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(343,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(396,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(661,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(662,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(961,40): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(962,35): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(985,39): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(986,40): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(987,41): warning C4244: '=': conversion from 'GLint' to 'GLfloat', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1087,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1087,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1087,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1087,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1088,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1088,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1173,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1203,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1255,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1256,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1315,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1379,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1380,16): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1437,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1474,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1636,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1637,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1638,14): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1726,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1841,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1880,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1885,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1897,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1914,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1998,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(2005,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(2038,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(2092,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(2114,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(2122,37): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+MSVCRT.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(340): warning C4715: 'ImGui::Spinner': not all control paths return a value
+C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(300): warning C4715: 'ImGui::BufferingBar': not all control paths return a value
+  All 2374 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'glew_static.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\Release\glew_static.pdb'; linking object as if no debug info
+  RobocopOpenGL.vcxproj -> C:\Users\willy\OneDrive\Desktop\Project2_B10915008_B10915012\ProjectFile\Release\FighterPlane.exe

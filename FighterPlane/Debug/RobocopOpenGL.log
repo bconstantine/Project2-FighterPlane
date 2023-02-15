@@ -1,0 +1,81 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(285,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(285,23): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(323,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(323,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(335,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(336,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(339,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  objloader.cpp
+  FighterPlane.cpp
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(190,26): warning C4018: '<': signed/unsigned mismatch
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(192,27): warning C4018: '<': signed/unsigned mismatch
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(502,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(540,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(547,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(820,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(858,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(865,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1120,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1126,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1141,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1181,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1188,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1445,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1482,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1520,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1527,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1622,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1649,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1898,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(1901,7): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(2087,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(2130,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(2168,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\include_header.h(2175,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(267,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(309,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(310,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(323,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(324,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(325,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\main.h(326,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(3,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(4,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(5,36): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(74,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(74,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(104,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(105,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(106,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(107,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(108,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(109,27): warning C4305: '=': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(318,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(762,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(762,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(762,94): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(762,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(763,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(763,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(848,23): warning C4018: '<': signed/unsigned mismatch
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(878,23): warning C4018: '<': signed/unsigned mismatch
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(964,23): warning C4018: '<': signed/unsigned mismatch
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1059,23): warning C4018: '<': signed/unsigned mismatch
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1093,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1275,20): warning C4018: '<': signed/unsigned mismatch
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1421,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1428,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\FighterPlane.cpp(1461,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(300): warning C4715: 'ImGui::BufferingBar': not all control paths return a value
+C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\FighterPlane\imgui\imgui_widgets.cpp(340): warning C4715: 'ImGui::Spinner': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32sd.lib(glew.obj) : warning LNK4099: PDB 'glew_static.pdb' was not found with 'glew32sd.lib(glew.obj)' or at 'C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\Debug\glew_static.pdb'; linking object as if no debug info
+  RobocopOpenGL.vcxproj -> C:\Willy\NTUST\Semester4\Computer Graphics\Project2_B10915008_B10915012\ProjectFile\Debug\FighterPlane.exe
