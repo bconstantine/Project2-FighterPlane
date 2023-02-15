@@ -1,0 +1,48 @@
+newmtl CylinderFBXASC046001SG1
+illum 4
+Kd 0.89 0.89 0.89
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.03 0.03 0.05
+Ns 23.00
+newmtl CylinderFBXASC046001SG2
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.01 0.01
+Ns 23.00
+newmtl CylinderFBXASC046001SG3
+illum 4
+Kd 0.89 0.89 0.89
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl CylinderFBXASC046001SG4
+illum 4
+Kd 0.89 0.89 0.89
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl CylinderFBXASC046001SG5
+illum 4
+Kd 0.89 0.89 0.89
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 54.25
+newmtl CylinderFBXASC046001SG6
+illum 4
+Kd 0.55 0.55 0.55
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 23.00

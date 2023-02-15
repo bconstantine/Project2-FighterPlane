@@ -1,0 +1,400 @@
+newmtl ComponentFBXASC0353_002SG
+illum 4
+Kd 0.89 0.89 0.89
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl ComponentFBXASC0354_001SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl ComponentFBXASC03510_002SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl ComponentFBXASC03510_002SG1
+illum 4
+Kd 0.56 0.56 0.56
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl ComponentFBXASC03536_001SG
+illum 4
+Kd 0.45 0.45 0.45
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl ComponentFBXASC03537_003SG
+illum 4
+Kd 0.23 0.23 0.23
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl ComponentFBXASC03537_003SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_004SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_004SG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_004SG4
+illum 4
+Kd 0.56 0.56 0.56
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_007SG
+illum 4
+Kd 0.45 0.45 0.45
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_095SG
+illum 4
+Kd 0.23 0.23 0.23
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_099SG
+illum 4
+Kd 0.80 0.64 0.64
+Ka 0.80 0.64 0.64
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_099SG2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_103SG
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.78 0.78 0.78
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_104SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_107SG
+illum 4
+Kd 0.80 0.64 0.64
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_133SG
+illum 4
+Kd 0.80 0.64 0.48
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_133SG2
+illum 4
+Kd 0.50 0.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_134SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_134SG2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.50 0.50 0.50
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_140SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.50 0.50 0.50
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_140SG2
+illum 4
+Kd 0.50 0.03 0.00
+Ka 0.50 0.03 0.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_141SG
+illum 4
+Kd 0.50 0.00 1.00
+Ka 0.50 0.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_141SG1
+illum 4
+Kd 0.24 0.24 0.24
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.70 0.70 0.70
+Ns 10.00
+newmtl Group_141SG2
+illum 4
+Kd 0.94 0.94 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_141SG3
+illum 4
+Kd 0.94 0.94 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_141SG5
+illum 4
+Kd 0.94 0.94 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_141SG10
+illum 4
+Kd 0.94 0.94 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_144SG
+illum 4
+Kd 0.94 0.94 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_144SG2
+illum 4
+Kd 0.94 0.94 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_144SG4
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_145SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_145SG2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_145SG4
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_145SG6
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_148SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_179SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_179SG2
+illum 4
+Kd 0.14 0.14 0.14
+Ka 0.14 0.14 0.14
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_179SG4
+illum 4
+Kd 0.75 0.75 0.75
+Ka 0.75 0.75 0.75
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_179SG6
+illum 4
+Kd 0.32 0.32 0.32
+Ka 0.32 0.32 0.32
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_180SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_180SG1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_180SG2
+illum 4
+Kd 0.12 0.12 0.12
+Ka 0.12 0.12 0.12
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_180SG3
+illum 4
+Kd 0.45 0.45 0.45
+Ka 0.45 0.45 0.45
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_180SG4
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_182SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_182SG2
+illum 4
+Kd 0.56 0.56 0.56
+Ka 0.56 0.56 0.56
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.00
+newmtl Group_186SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Group_188SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00

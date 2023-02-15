@@ -1,0 +1,360 @@
+newmtl Color_001
+illum 4
+Kd 0.89 0.89 0.89
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_002
+illum 4
+Kd 0.78 0.78 0.78
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_003
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_004
+illum 4
+Kd 0.56 0.56 0.56
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_005
+illum 4
+Kd 0.45 0.45 0.45
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_007
+illum 4
+Kd 0.23 0.23 0.23
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_008
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_014
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_A09
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_A11
+illum 4
+Kd 0.80 0.64 0.64
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_C09
+illum 4
+Kd 0.80 0.64 0.48
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Color_J01
+illum 4
+Kd 0.50 0.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Fencing_Wood_Old
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material6
+illum 4
+Kd 0.24 0.24 0.24
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material8
+illum 4
+Kd 0.50 0.03 0.00
+Ka 0.59 0.59 0.59
+Tf 0.50 0.50 0.50
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material11
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Translucent_Glass_Corrugated
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 0.80 0.80 0.80
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Translucent_Glass_Green_Dark
+illum 4
+Kd 0.36 0.26 0.30
+Ka 0.59 0.59 0.59
+Tf 0.57 0.57 0.57
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Translucent_Glass_Sky_Reflection
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 0.52 0.52 0.52
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _0137_Black_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Charcoal
+illum 4
+Kd 0.14 0.14 0.14
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Charcoal_1
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_000_1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_001_1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_003_1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_003_2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_004_2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_005_5
+illum 4
+Kd 0.45 0.45 0.45
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_007_1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_007_2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_007_4
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_A01_1
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Color_A10_1
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _DarkGray
+illum 4
+Kd 0.32 0.32 0.32
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _DimGray
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Gray
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Gray8_
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _LightGray
+illum 4
+Kd 0.66 0.66 0.66
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Metal_Aluminum_Anodized_3
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Metal_Rough_3
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Red
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Silver
+illum 4
+Kd 0.75 0.75 0.75
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _SteelBlue
+illum 4
+Kd 0.27 0.51 0.71
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Translucent_Glass_Gray_2
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.59 0.59 0.59
+Tf 0.50 0.50 0.50
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl _Translucent_Glass_Green_Dark_1
+illum 4
+Kd 0.24 0.36 0.02
+Ka 0.59 0.59 0.59
+Tf 0.50 0.50 0.50
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
