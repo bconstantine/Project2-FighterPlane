@@ -1,3 +1,5 @@
+Demo video is available on https://www.linkedin.com/posts/bryan-constantine_opengl-cplusplus-particle-ugcPost-6959809958234267648-D1iu?utm_source=share&utm_medium=member_desktop
+
 The second project is NTUST Fundamentals of Computer Graphics which is focused on particle effects and texture mapping using GLSL Shaders, and is done within one and a half week
 
 The project is about a fighter plane model that is equipped with various visual effects and animations such as:
